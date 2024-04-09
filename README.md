@@ -15,7 +15,7 @@
 
 
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/Kathryn-Jie/baner_ruth"> 
 </p>
 
 <h1>  Hola soy Ruth Algueta👋 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
