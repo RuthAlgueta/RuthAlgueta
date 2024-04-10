@@ -1,6 +1,8 @@
 
 
-<h2 align="center">Hola Mundo, soy Ruth Algueta</b></h2>
+<h2 align="center">Hola mundo, soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<p align='center'>
+</p>
 
 <p align='center'>
 </p>
