@@ -1,9 +1,9 @@
 
 
 <h3 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-<img src="[![Baner-github-LINKEDIN-01.jpg](https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg)](https://postimg.cc/JyzzP3hj)">
+
+<img src="[![Baner-github-LINKEDIN-01.jpg][(https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg)](https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg)](https://postimg.cc/JyzzP3hj)">
 
 <a href='https://postimg.cc/JyzzP3hj' target='_blank'><img src='https://i.postimg.cc/JyzzP3hj/Baner-github-LINKEDIN-01.jpg' border='0' alt='Baner-github-LINKEDIN-01'/></a>
 
