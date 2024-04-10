@@ -3,7 +3,7 @@
 <h3 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.jpg">
 
-![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+![image](https://[Baner-github-LINKEDIN-01.jpg](https://postimg.cc/JyzzP3hj).jpg)
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
  
