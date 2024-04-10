@@ -28,10 +28,10 @@
 ### 🗃 DataAnalyst tools
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seabornn-05122A?style=flat&logo=Seaborn)
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-05122A?style=flat&logo=GeoPandas)
-![scikit-learn](https://img.shields.io/badge/-scikit-learn-05122A?style=flat&logo=-scikit-learn)
+![scikitlearn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=-scikitlearn)
 ### 🗃 design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
