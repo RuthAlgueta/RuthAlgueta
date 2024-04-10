@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hola soy RuthAlgueta</b></h2>
+<h2 align="center">Hola soy Ruth Algueta</b></h2>
 
 <p align='center'>
 </p>
