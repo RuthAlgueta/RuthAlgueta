@@ -37,7 +37,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=-MySQL)
 ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=-JupyterNotebook)
 
-### 🗃 design tools
+### 🗃 Design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
