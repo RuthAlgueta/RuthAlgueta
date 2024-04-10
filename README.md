@@ -25,8 +25,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
+### 🗃 DataAnalyst tools
 
-### 🗃 tools
+### 🗃 design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
