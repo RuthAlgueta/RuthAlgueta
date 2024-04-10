@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente **busco prácticas de Data Analyst.**
 - 🌱 Actualmente estoy aprendiendo **Data Analyst**
-- 👯 Estoy buscando colaborar en **Me interesa colaborar en proyectos de Data Analyst junto con marketing y diseño.**
+- 👯 Estoy buscando colaborar en **en proyectos de Data Analyst junto con marketing y diseño.**
 - 🤝 Estoy buscando ayuda con **Practicas de Data Analyst**
 - 👨‍ 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
