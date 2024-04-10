@@ -6,7 +6,7 @@
 </p>
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
 
-- 🔭 Actualmente **busco prácticas de Data Analyst.**
+- 🔭 Actualmente **busco prácticas de Data Analyst <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;.**
 - 👯 Estoy buscando colaborar en **en proyectos de Data Analyst junto con marketing y diseño.**
 - 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
