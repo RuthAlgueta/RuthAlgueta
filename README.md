@@ -1,9 +1,13 @@
 
 
 <h3 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+
 <img src="[![Baner-github-LINKEDIN-01.jpg](https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg)](https://postimg.cc/JyzzP3hj)">
-[![Baner-github-LINKEDIN-01.jpg](https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg)](https://postimg.cc/JyzzP3hj)
+
+
+
 ![image](https://[Baner-github-LINKEDIN-01.jpg](https://postimg.cc/JyzzP3hj).jpg)
+
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
  
