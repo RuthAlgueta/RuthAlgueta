@@ -12,7 +12,7 @@
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales.**
 
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">🤝🏻 Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" height="30" width="40" /></a>
 </p>
