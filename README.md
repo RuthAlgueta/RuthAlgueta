@@ -12,7 +12,7 @@
 - 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
-- 📄 Curriculum en </a><br /><br />" target="blank">pdf</a>
+- 📄 Curriculum en </a><br /><br />
 <br/>
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
 
