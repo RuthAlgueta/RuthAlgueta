@@ -12,7 +12,7 @@
 - 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
-- 📄 Curriculum en </a><br /><br />
+- 📄 Curriculum en </a>
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
 <br/>
 
@@ -20,7 +20,7 @@
 <p align='center'>
 </p>
 <hr>
-
+<br /><br />
 <h3 align="left">🤝Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" height="30" width="40" /></a>
