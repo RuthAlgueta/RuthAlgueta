@@ -31,8 +31,9 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-05122A?style=flat&logo=GeoPandas)
-![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-05122A?style=flat&logo=-Scikitlearn)
-![Powerbi](https://img.shields.io/badge/-Powerbi-05122A?style=flat&logo=-Powerbi)
+![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=-ScikitLearn)
+![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=-PowerBi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=-Streamlit)
 
 ### 🗃 design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
