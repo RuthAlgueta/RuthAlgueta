@@ -30,6 +30,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![PremierePro](https://img.shields.io/badge/-PremierePro-05122A?style=flat&logo=adobe-PremierePro)
 ![AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe-AfterEffects)
+![CINENMA4D](https://img.shields.io/badge/-CINENMA4D-05122A?style=flat&logo=-CINENMA4D)
 
 
 
