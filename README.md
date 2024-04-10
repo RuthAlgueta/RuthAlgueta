@@ -26,7 +26,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ### 🗃 DataAnalyst tools
-
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seabornn-05122A?style=flat&logo=Seaborn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-05122A?style=flat&logo=GeoPandas)
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-05122A?style=flat&logo=-scikit-learn)
 ### 🗃 design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
