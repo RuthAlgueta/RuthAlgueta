@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-
+<br /><br />
 <p align='center'>
 </p>
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
@@ -20,7 +20,7 @@
 <p align='center'>
 </p>
 <hr>
-<br /><br />
+
 <h3 align="left">🤝Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" height="30" width="40" /></a>
