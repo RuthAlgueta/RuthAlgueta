@@ -12,7 +12,7 @@
 - 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
-- 📄 Curriculum en PDF <a href="[https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://i.postimg.cc/Bb02TbHp/CV-Ruth-Algueta-2024-Data-Analyst.png)" target="blank">Resume</a>
+- 📄 Curriculum en PDF <a href="<a href='https://postimg.cc/xJ6kY0sN' target='_blank'><img src='https://i.postimg.cc/Bb02TbHp/CV-Ruth-Algueta-2024-Data-Analyst.png' border='0' alt='CV-Ruth-Algueta-2024-Data-Analyst'/></a><br /><a href='https://postimages.org/es/'>como subir fotos a internet</a><br />" target="blank">Resume</a>
 <br/>
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
 
