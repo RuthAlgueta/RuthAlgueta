@@ -1,11 +1,11 @@
 
 
 <h2 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<hr>
+
 <p align='center'>
 </p>
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
-<hr>
+
 
 - 🔭 Actualmente **busco prácticas de Data Analyst.**
 - 🌱 Actualmente sigo aprendiendo **Data Analyst**
