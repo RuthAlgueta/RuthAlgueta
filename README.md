@@ -35,7 +35,7 @@
 ![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=-PowerBi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=-Streamlit)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=-MySQL)
-![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebookL-05122A?style=flat&logo=-JupyterNotebook)
+![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=-JupyterNotebook)
 
 ### 🗃 design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
