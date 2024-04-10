@@ -2,7 +2,7 @@
 
 <h3 align="center">Hola soy Ruth Algueta👋</h3>
 
-- 🔭 Actualmente estoy trabajando en **Actualmente busco prácticas prácticas de Data Analyst.**
+- 🔭 Actualmente **busco prácticas prácticas de Data Analyst.**
 
 - 🌱 Actualmente estoy aprendiendo **Soy Data Analyst y diseñadora audiovisual y modeladora 3D**
 
