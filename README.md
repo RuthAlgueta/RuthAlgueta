@@ -3,19 +3,12 @@
 <h3 align="center">Hola soy Ruth Algueta👋</h3>
 
 - 🔭 Actualmente **busco prácticas prácticas de Data Analyst.**
-
 - 🌱 Actualmente estoy aprendiendo **Soy Data Analyst y diseñadora audiovisual y modeladora 3D**
-
 - 👯 Estoy buscando colaborar en **Me interesa colaborar en proyectos de Data Analyst.**
-
 - 🤝 Estoy buscando ayuda con **Practicas de Data Analyst**
-
 - 👨‍ 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
-
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
-
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
-
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales.**
 
 
@@ -43,4 +36,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
