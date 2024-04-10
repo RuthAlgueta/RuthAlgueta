@@ -6,7 +6,7 @@
 </p>
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
 
-- 🔭 Actualmente **busco prácticas de Data Analyst**<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+- 🔭 Actualmente **busco prácticas de Data Analyst**<img 
 - 👯 Estoy buscando colaborar en **en proyectos de Data Analyst junto con marketing y diseño.**
 - 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
@@ -34,7 +34,7 @@
 <hr>
 
 ### 🗃 DataAnalyst tools
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
