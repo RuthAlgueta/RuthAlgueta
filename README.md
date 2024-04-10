@@ -31,7 +31,9 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-05122A?style=flat&logo=GeoPandas)
-![scikitlearn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=-scikitlearn)
+![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-05122A?style=flat&logo=-Scikitlearn)
+![Powerbi](https://img.shields.io/badge/-Powerbi-05122A?style=flat&logo=-Powerbi)
+
 ### 🗃 design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
@@ -43,7 +45,6 @@
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
