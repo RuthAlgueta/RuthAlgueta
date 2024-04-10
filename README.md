@@ -11,7 +11,7 @@
 - 🌱 Actualmente estoy aprendiendo **Data Analyst**
 - 👯 Estoy buscando colaborar en **en proyectos de Data Analyst junto con marketing y diseño.**
 - 🤝 Estoy buscando ayuda con **Practicas de Data Analyst**
-- 👨‍ 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
+  💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
