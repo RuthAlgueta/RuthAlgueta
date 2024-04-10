@@ -34,6 +34,7 @@
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=-ScikitLearn)
 ![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=-PowerBi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=-Streamlit)
+![MySQL](https://img.shields.io/badge/-MySQLt-05122A?style=flat&logo=-MySQL)
 
 ### 🗃 design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
