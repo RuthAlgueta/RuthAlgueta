@@ -2,22 +2,16 @@
 
 <h3 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 
-
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
 
-
-
- 
 - 🔭 Actualmente **busco prácticas de Data Analyst.**
 - 🌱 Actualmente estoy aprendiendo **Data Analyst**
 - 👯 Estoy buscando colaborar en **en proyectos de Data Analyst junto con marketing y diseño.**
 - 🤝 Estoy buscando ayuda con **Practicas de Data Analyst**
-  💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
+- 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
-
-
 
 
 <h3 align="left">Conecta conmigo:</h3>
