@@ -48,7 +48,7 @@
 ![PremierePro](https://img.shields.io/badge/-PremierePro-05122A?style=flat&logo=adobe-PremierePro)
 ![AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe-AfterEffects)
 ![CINENMA4D](https://img.shields.io/badge/-CINENMA4D-05122A?style=flat&logo=-CINENMA4D)
-![Autodesk_Fusion360](https://img.shields.io/badge/-Autodesk_Fusion360D-05122A?style=flat&logo=-Autodesk_Fusion360)
+![Autodesk_Fusion360](https://img.shields.io/badge/-Autodesk_Fusion360-05122A?style=flat&logo=-Autodesk_Fusion360)
 
 
 
