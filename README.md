@@ -5,7 +5,7 @@
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
 
 - 🔭 Actualmente **busco prácticas de Data Analyst.**
-- 🌱 Actualmente estoy aprendiendo **Data Analyst**
+- 🌱 Actualmente sigo aprendiendo **Data Analyst**
 - 👯 Estoy buscando colaborar en **en proyectos de Data Analyst junto con marketing y diseño.**
 - 🤝 Estoy buscando ayuda con **Practicas de Data Analyst**
 - 💻 Todos mis proyectos están disponibles en [www.ruthalgueta.art](www.ruthalgueta.art)
