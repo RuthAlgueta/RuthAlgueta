@@ -3,7 +3,7 @@
 <h3 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 
 
-<img src="">
+<img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
 
 <a href='https://postimg.cc/JyzzP3hj' target='_blank'><img src='https://i.postimg.cc/JyzzP3hj/Baner-github-LINKEDIN-01.jpg' border='0' alt='Baner-github-LINKEDIN-01'/></a>
 
