@@ -13,8 +13,9 @@
 - 💬 Pregúntame sobre **Análisis de datos, diseño audiovisual, modelado 3D e impresion 3d.**
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
 - 📄 Curriculum en </a><br /><br />
+- ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
 <br/>
- - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
+
 
 <p align='center'>
 </p>
