@@ -5,11 +5,7 @@
 
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
 
-<a href='https://postimg.cc/JyzzP3hj' target='_blank'><img src='https://i.postimg.cc/JyzzP3hj/Baner-github-LINKEDIN-01.jpg' border='0' alt='Baner-github-LINKEDIN-01'/></a>
 
-![image](https://[Baner-github-LINKEDIN-01.jpg](https://postimg.cc/JyzzP3hj).jpg)
-
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
  
 - 🔭 Actualmente **busco prácticas de Data Analyst.**
