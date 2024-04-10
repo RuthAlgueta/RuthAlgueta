@@ -12,13 +12,7 @@
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
 - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
 
-- Apasionada del Diseño
-- Aprendiendo de Data analyst
-- Diseñadora Audiovisual 
-- website [link](https://www.ruthalgueta.art)
-- Actualmente estoy abierto a nuevas oportunidades laborales o practicas, este es [mi currículum](https://read.cv/Ruthalgueta)
 
-<br><br>
 
 
 <h3 align="left">🤝🏻 Conecta conmigo:</h3>
