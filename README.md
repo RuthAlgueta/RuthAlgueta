@@ -1,9 +1,11 @@
 
 
 <h2 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<hr>
 <p align='center'>
 </p>
 <img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
+<hr>
 
 - 🔭 Actualmente **busco prácticas de Data Analyst.**
 - 🌱 Actualmente sigo aprendiendo **Data Analyst**
@@ -16,17 +18,20 @@
 
 <p align='center'>
 </p>
+<hr>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ruth-algueta-ostáriz-data-analyst" height="30" width="40" /></a>
 </p>
+<hr>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+<hr>
 
 ### 🗃 DataAnalyst tools
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
@@ -41,6 +46,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=-Streamlit)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=-MySQL)
 ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=-JupyterNotebook)
+<hr>
 
 ### 🗃 Design tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
@@ -50,8 +56,7 @@
 ![AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe-AfterEffects)
 ![CINENMA4D](https://img.shields.io/badge/-CINENMA4D-05122A?style=flat&logo=-CINENMA4D)
 ![Autodesk_Fusion360](https://img.shields.io/badge/-Autodesk_Fusion360-05122A?style=flat&logo=-Autodesk_Fusion360)
-
-
+<hr>
 
 ### 🧰 &nbsp;Version Controll & Tools 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
