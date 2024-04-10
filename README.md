@@ -4,7 +4,7 @@
 
 <img src="[![Baner-github-LINKEDIN-01.jpg](https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg)](https://postimg.cc/JyzzP3hj)">
 
-
+<a href='https://postimg.cc/JyzzP3hj' target='_blank'><img src='https://i.postimg.cc/JyzzP3hj/Baner-github-LINKEDIN-01.jpg' border='0' alt='Baner-github-LINKEDIN-01'/></a>
 
 ![image](https://[Baner-github-LINKEDIN-01.jpg](https://postimg.cc/JyzzP3hj).jpg)
 
