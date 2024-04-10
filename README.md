@@ -29,7 +29,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=adobe-Premiere)
-![AfterEffects](https://img.shields.io/badge/-AfterEffecte-05122A?style=flat&logo=adobe-AfterEffect)
+![AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe-AfterEffects)
 
 
 
