@@ -14,7 +14,7 @@
 - 📫 Cómo contactarme **ruthalgueta@gmail.com**
 - 📄 Curriculum en </a><br /><br />
 <br/>
-- ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
+ - ⚡ Dato curioso **Mi pasión por la impresión 3D me lleva a explorar nuevas técnicas y diseños para mis proyectos personales junto con la programación.**
 
 <p align='center'>
 </p>
