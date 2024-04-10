@@ -32,6 +32,8 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-05122A?style=flat&logo=GeoPandas)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=-ScikitLearn)
+![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=-JupyterNotebook)
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=-JSON)
 ![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=-PowerBi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=-Streamlit)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=-MySQL)
