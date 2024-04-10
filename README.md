@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hola soy Ruth Algueta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="center">Hola soy Ruth Algueta</b>src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align='center'>
 </p>
@@ -34,7 +34,7 @@
 <hr>
 
 ### 🗃 DataAnalyst tools
-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
