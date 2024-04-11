@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 <img src="https://i.postimg.cc/x1nqz8pt/baner-github-04.jpg">
-<img src="https://i.postimg.cc/5twQ9ndK/Baner-github-LINKEDIN-01.jpg">
+
 
 - 🔭 Currently **seeking Data Analyst internships**
 - 👯 I'm looking to collaborate on **Data Analyst projects along with marketing and design.**
