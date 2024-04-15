@@ -5,7 +5,7 @@
 
 <p align='center'>
 </p>
-<img src="https://i.postimg.cc/x1nqz8pt/baner-github-04.jpg">
+<img src="https://i.postimg.cc/Bbxsf1Z8/Baner-Gihub-SIMPLE-01.jpg">
 
 
 - 🔭 Currently **seeking Data Analyst internships**
