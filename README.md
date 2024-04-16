@@ -42,7 +42,6 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-05122A?style=flat&logo=GeoPandas)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=Scikit-Learn)
-![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=Jupyter)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)
 ![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=Power-Bi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)
